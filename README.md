@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 This repository is created for the Coursera - Getting and Cleaning Data Course Project.
-The R script to clean up the data are attached as "run_analysis.R" in this repository.
+The R script to clean up the data is attached as "run_analysis.R" in this repository.
 
 R script (run_analysis.R) is created to do the following.
 1) Merges the training and the test sets to create one data set.
